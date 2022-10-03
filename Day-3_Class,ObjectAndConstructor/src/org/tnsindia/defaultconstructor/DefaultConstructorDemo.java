@@ -1,6 +1,5 @@
 package org.tnsindia.defaultconstructor;
 
-//class definition
 class Car
 {
 	//variable
@@ -21,11 +20,13 @@ public class DefaultConstructorDemo {
 
 	public static void main(String[] args) {
 		//object creation
-		Car obj=new Car();
-		//obj.speed=50;
-		//calling the method of car class
-		obj.display();
+				Car obj=new Car();
+				//obj.speed=50;
+				//calling the method of car class
+				obj.display();
 
-	}
+			}
 
-}
+		}
+
+	
